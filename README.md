@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @PreethamShivaSai
 - 👀 I’m interested in web dev
-- 🌱 I’m currently learning django
 - 📫 How to reach me (babluapss@gmail.com)
 
 <!---
